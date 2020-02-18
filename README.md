@@ -22,4 +22,6 @@
 
   **Obs.:** O arquivo _**.jar**_ será gerado em `./build/libs`
 
-O pacote deve ser instalado como um novo módulo do simpleSAMLphp.
+O pacote deve ser instalado como um novo módulo do simpleSAMLphp*.
+
+> * Documentação a parte
